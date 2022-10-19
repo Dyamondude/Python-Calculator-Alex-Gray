@@ -14,7 +14,7 @@ The design brief is in reference to the wireframe design board in Miro:
 
 * Colour
   * The colours I have chosen for the calculator is taken from my design for the age group
-  * The **Website** that I used for this is: [**w3schools**]()
+  * The **Website** that I used for this is: [**color pickers**](https://miro.com/app/board/uXjVPUK5QsQ=/#tpicker-content)
 
 * Layout
   * Here's the link to my design in [**Miro**](https://miro.com/app/board/uXjVPUK5QsQ=/#tpicker-content)
