@@ -20,4 +20,4 @@ The design brief is in reference to the wireframe design board in Miro:
   * Here's the link to my design in [**Miro**](https://miro.com/app/board/uXjVPUK5QsQ=/#tpicker-content)
 
 
-<image src="https://github.com/Rongotai-College/10DT-Python-Calculator-Alex-Gray/blob/main/images/Calculator screenshot.jpg?raw=true" title="TheTask" width=500>
+<image src="https://github.com/Dyamondude/Python-Calculator-Alex-Gray/blob/main/Calculator%20screenshot.jpg" title="TheTask" width=1000>
